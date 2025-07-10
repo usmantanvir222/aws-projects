@@ -1,1 +1,1 @@
-This repository contains some AWS projects I have done.
+This repository contains AWS project that I have completed. 
