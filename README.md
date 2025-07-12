@@ -1,4 +1,4 @@
-Welcome to my AWS Projects Repository. Here you will find some AWS hands on projects I have completed. 
+Welcome to my AWS Projects Repository. Here you will find some AWS hands on projects I have completed. I will continue to add more projects here. 
 
 **VPC:**
 1. Build a Virtual Private Cloud
@@ -10,3 +10,12 @@ Welcome to my AWS Projects Repository. Here you will find some AWS hands on proj
 7. VPC Monitoring with Flow Logs
 8. Access S3 from a VPC
 9. VPC Endpoints
+
+**Three-Tier-Architecture**
+1. Website Delivery with CloudFront
+2. Logic_Tier
+3. Fetch_data_with_AWS_Lambda
+4. Build a Three-Tier Web App
+
+**Dockers_Kubernetes**
+1. Deploy an App with Docker
