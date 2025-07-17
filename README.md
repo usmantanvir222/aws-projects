@@ -17,5 +17,20 @@ Welcome to my AWS Projects Repository. Here you will find some AWS hands on proj
 3. Fetch_data_with_AWS_Lambda
 4. Build a Three-Tier Web App
 
-**Dockers_Kubernetes**
+**Dockers**
 1. Deploy an App with Docker
+
+
+**Kubernetes**
+1. Launch a Kubernetes Cluster
+2. Set Up Kubernetes Deployment
+3. Create Kubernetes Manifests
+4. Deploy Backend with Kubernetes
+
+**IAM**
+1. Cloud Security with AWS IAM
+
+**QuickSight**
+1. Visualize data with QuickSight
+
+
